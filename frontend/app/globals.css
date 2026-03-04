@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-dark: #09637E;
+  --primary: #088395;
+  --primary-light: #7AB2B2;
+  --primary-lighter: #EBF4F6;
+}
+
+/* Base styles with accessibility in mind */
+@layer base {
+  html {
+    /* Ensure minimum font size of 16px for accessibility */
+    font-size: 16px;
+  }
+
+  body {
+    font-size: 1rem; /* 16px */
+    color: #1a1a1a;
+    background-color: var(--primary-lighter);
+    line-height: 1.5;
+  }
+
+  /* Ensure high contrast for accessibility (minimum 4.5:1) */
+  a {
+    color: var(--primary-dark);
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: var(--primary);
+  }
+
+  /* Focus indicators for keyboard navigation */
+  *:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+  }
+
+  /* Ensure buttons and interactive elements are accessible */
+  button, 
+  [role="button"] {
+    cursor: pointer;
+  }
+
+  /* Improve readability */
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2;
+    font-weight: 600;
+  }
+
+  /* Ensure form elements meet minimum size for touch targets */
+  input,
+  button,
+  select,
+  textarea {
+    min-height: 44px; /* WCAG 2.1 Level AAA touch target size */
+  }
+}
+
+/* Utility classes for responsive design */
+@layer utilities {
+  .container-responsive {
+    @apply w-full mx-auto px-4;
+  }
+
+  @media (min-width: 768px) {
+    .container-responsive {
+      @apply px-6;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .container-responsive {
+      @apply px-8 max-w-7xl;
+    }
+  }
+}

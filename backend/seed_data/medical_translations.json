@@ -1,0 +1,302 @@
+[
+  {
+    "medical_term": "Hyperlipidemia",
+    "common_term": "High cholesterol",
+    "simple_explanation": "Your body has too much fat in the blood",
+    "category": "cardiovascular"
+  },
+  {
+    "medical_term": "Anemia",
+    "common_term": "Low red blood cells",
+    "simple_explanation": "Your blood doesn't carry enough oxygen",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Hyperglycemia",
+    "common_term": "High blood sugar",
+    "simple_explanation": "Your blood sugar level is higher than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hypoglycemia",
+    "common_term": "Low blood sugar",
+    "simple_explanation": "Your blood sugar level is lower than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hypothyroidism",
+    "common_term": "Underactive thyroid",
+    "simple_explanation": "Your thyroid gland doesn't produce enough hormones",
+    "category": "thyroid"
+  },
+  {
+    "medical_term": "Hyperthyroidism",
+    "common_term": "Overactive thyroid",
+    "simple_explanation": "Your thyroid gland produces too much hormone",
+    "category": "thyroid"
+  },
+  {
+    "medical_term": "Elevated liver enzymes",
+    "common_term": "Liver stress indicators",
+    "simple_explanation": "Your liver may be working harder than usual",
+    "category": "liver"
+  },
+  {
+    "medical_term": "Leukocytosis",
+    "common_term": "High white blood cell count",
+    "simple_explanation": "Your body has more infection-fighting cells than normal",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Leukopenia",
+    "common_term": "Low white blood cell count",
+    "simple_explanation": "Your body has fewer infection-fighting cells than normal",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Thrombocytopenia",
+    "common_term": "Low platelet count",
+    "simple_explanation": "Your blood has fewer clotting cells than normal",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Thrombocytosis",
+    "common_term": "High platelet count",
+    "simple_explanation": "Your blood has more clotting cells than normal",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Hypercholesterolemia",
+    "common_term": "High cholesterol",
+    "simple_explanation": "Your cholesterol level is higher than recommended",
+    "category": "cardiovascular"
+  },
+  {
+    "medical_term": "Hypertriglyceridemia",
+    "common_term": "High triglycerides",
+    "simple_explanation": "Your blood has too much of a type of fat called triglycerides",
+    "category": "cardiovascular"
+  },
+  {
+    "medical_term": "Renal insufficiency",
+    "common_term": "Reduced kidney function",
+    "simple_explanation": "Your kidneys aren't filtering waste as well as they should",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Elevated creatinine",
+    "common_term": "High kidney waste marker",
+    "simple_explanation": "Your kidneys may not be removing waste efficiently",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Hepatic dysfunction",
+    "common_term": "Liver function problems",
+    "simple_explanation": "Your liver isn't working as well as it should",
+    "category": "liver"
+  },
+  {
+    "medical_term": "Hyperuricemia",
+    "common_term": "High uric acid",
+    "simple_explanation": "Your blood has too much uric acid, which can cause gout",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hypokalemia",
+    "common_term": "Low potassium",
+    "simple_explanation": "Your blood has less potassium than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hyperkalemia",
+    "common_term": "High potassium",
+    "simple_explanation": "Your blood has more potassium than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hyponatremia",
+    "common_term": "Low sodium",
+    "simple_explanation": "Your blood has less sodium (salt) than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hypernatremia",
+    "common_term": "High sodium",
+    "simple_explanation": "Your blood has more sodium (salt) than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Dyslipidemia",
+    "common_term": "Abnormal cholesterol levels",
+    "simple_explanation": "Your cholesterol and fat levels are not in the healthy range",
+    "category": "cardiovascular"
+  },
+  {
+    "medical_term": "Polycythemia",
+    "common_term": "High red blood cell count",
+    "simple_explanation": "Your blood has more red blood cells than normal",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Azotemia",
+    "common_term": "High nitrogen waste in blood",
+    "simple_explanation": "Your kidneys aren't removing nitrogen waste efficiently",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Hyperbilirubinemia",
+    "common_term": "High bilirubin",
+    "simple_explanation": "Your liver may not be processing waste properly",
+    "category": "liver"
+  },
+  {
+    "medical_term": "Proteinuria",
+    "common_term": "Protein in urine",
+    "simple_explanation": "Your kidneys are letting protein leak into your urine",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Hematuria",
+    "common_term": "Blood in urine",
+    "simple_explanation": "There is blood in your urine",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Glycosuria",
+    "common_term": "Sugar in urine",
+    "simple_explanation": "Your urine contains sugar, which may indicate high blood sugar",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Acidosis",
+    "common_term": "Too much acid in blood",
+    "simple_explanation": "Your blood is more acidic than it should be",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Alkalosis",
+    "common_term": "Too much base in blood",
+    "simple_explanation": "Your blood is less acidic (more alkaline) than it should be",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hypocalcemia",
+    "common_term": "Low calcium",
+    "simple_explanation": "Your blood has less calcium than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Hypercalcemia",
+    "common_term": "High calcium",
+    "simple_explanation": "Your blood has more calcium than normal",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Iron deficiency",
+    "common_term": "Low iron",
+    "simple_explanation": "Your body doesn't have enough iron to make healthy red blood cells",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Vitamin D deficiency",
+    "common_term": "Low vitamin D",
+    "simple_explanation": "Your body doesn't have enough vitamin D",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Vitamin B12 deficiency",
+    "common_term": "Low vitamin B12",
+    "simple_explanation": "Your body doesn't have enough vitamin B12",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Folate deficiency",
+    "common_term": "Low folate",
+    "simple_explanation": "Your body doesn't have enough folate (a B vitamin)",
+    "category": "blood"
+  },
+  {
+    "medical_term": "Metabolic syndrome",
+    "common_term": "Cluster of health risk factors",
+    "simple_explanation": "You have several conditions that increase risk of heart disease and diabetes",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Prediabetes",
+    "common_term": "Higher than normal blood sugar",
+    "simple_explanation": "Your blood sugar is higher than normal but not yet diabetes",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Insulin resistance",
+    "common_term": "Body not responding to insulin",
+    "simple_explanation": "Your body's cells don't respond well to insulin",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Fatty liver",
+    "common_term": "Fat buildup in liver",
+    "simple_explanation": "Your liver has accumulated too much fat",
+    "category": "liver"
+  },
+  {
+    "medical_term": "Hepatitis",
+    "common_term": "Liver inflammation",
+    "simple_explanation": "Your liver is inflamed or irritated",
+    "category": "liver"
+  },
+  {
+    "medical_term": "Cirrhosis",
+    "common_term": "Liver scarring",
+    "simple_explanation": "Your liver has permanent scarring from damage",
+    "category": "liver"
+  },
+  {
+    "medical_term": "Nephropathy",
+    "common_term": "Kidney disease",
+    "simple_explanation": "Your kidneys are damaged or not working properly",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Chronic kidney disease",
+    "common_term": "Long-term kidney problems",
+    "simple_explanation": "Your kidneys have been damaged and don't work as well as they should",
+    "category": "kidney"
+  },
+  {
+    "medical_term": "Goiter",
+    "common_term": "Enlarged thyroid gland",
+    "simple_explanation": "Your thyroid gland is larger than normal",
+    "category": "thyroid"
+  },
+  {
+    "medical_term": "Thyroiditis",
+    "common_term": "Thyroid inflammation",
+    "simple_explanation": "Your thyroid gland is inflamed or irritated",
+    "category": "thyroid"
+  },
+  {
+    "medical_term": "Electrolyte imbalance",
+    "common_term": "Mineral imbalance",
+    "simple_explanation": "Your body's minerals (like sodium and potassium) are not in balance",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Dehydration",
+    "common_term": "Not enough water in body",
+    "simple_explanation": "Your body doesn't have enough water",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Malnutrition",
+    "common_term": "Poor nutrition",
+    "simple_explanation": "Your body isn't getting enough nutrients from food",
+    "category": "metabolic"
+  },
+  {
+    "medical_term": "Inflammation",
+    "common_term": "Body's response to injury or infection",
+    "simple_explanation": "Part of your body is swollen or irritated as it tries to heal",
+    "category": "general"
+  }
+]

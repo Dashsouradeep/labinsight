@@ -1,0 +1,323 @@
+[
+  {
+    "parameter": "hemoglobin",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 10,
+        "gender": "male",
+        "min_value": 11.0,
+        "max_value": 14.0,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 10,
+        "gender": "female",
+        "min_value": 11.0,
+        "max_value": 14.0,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 11,
+        "age_max": 20,
+        "gender": "male",
+        "min_value": 12.5,
+        "max_value": 16.0,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 11,
+        "age_max": 20,
+        "gender": "female",
+        "min_value": 11.5,
+        "max_value": 15.0,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 21,
+        "age_max": 70,
+        "gender": "male",
+        "min_value": 13.5,
+        "max_value": 17.5,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 21,
+        "age_max": 70,
+        "gender": "female",
+        "min_value": 12.0,
+        "max_value": 15.5,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 71,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 12.5,
+        "max_value": 17.0,
+        "unit": "g/dL"
+      },
+      {
+        "age_min": 71,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 11.5,
+        "max_value": 15.0,
+        "unit": "g/dL"
+      }
+    ],
+    "organ_system": "blood",
+    "critical_threshold_percent": 20,
+    "source": "WHO Guidelines",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "wbc",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 10,
+        "gender": "male",
+        "min_value": 5000,
+        "max_value": 15000,
+        "unit": "cells/μL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 10,
+        "gender": "female",
+        "min_value": 5000,
+        "max_value": 15000,
+        "unit": "cells/μL"
+      },
+      {
+        "age_min": 11,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 4000,
+        "max_value": 11000,
+        "unit": "cells/μL"
+      },
+      {
+        "age_min": 11,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 4000,
+        "max_value": 11000,
+        "unit": "cells/μL"
+      }
+    ],
+    "organ_system": "blood",
+    "critical_threshold_percent": 20,
+    "source": "Clinical Laboratory Standards",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "platelets",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 150000,
+        "max_value": 400000,
+        "unit": "/μL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 150000,
+        "max_value": 400000,
+        "unit": "/μL"
+      }
+    ],
+    "organ_system": "blood",
+    "critical_threshold_percent": 20,
+    "source": "Clinical Laboratory Standards",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "cholesterol",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 20,
+        "gender": "male",
+        "min_value": 120,
+        "max_value": 170,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 20,
+        "gender": "female",
+        "min_value": 120,
+        "max_value": 170,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 21,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 125,
+        "max_value": 200,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 21,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 125,
+        "max_value": 200,
+        "unit": "mg/dL"
+      }
+    ],
+    "organ_system": "cardiovascular",
+    "critical_threshold_percent": 20,
+    "source": "American Heart Association",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "glucose",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 70,
+        "max_value": 100,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 70,
+        "max_value": 100,
+        "unit": "mg/dL"
+      }
+    ],
+    "organ_system": "metabolic",
+    "critical_threshold_percent": 20,
+    "source": "American Diabetes Association",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "tsh",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 0.4,
+        "max_value": 4.0,
+        "unit": "μIU/mL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 0.4,
+        "max_value": 4.0,
+        "unit": "μIU/mL"
+      }
+    ],
+    "organ_system": "thyroid",
+    "critical_threshold_percent": 20,
+    "source": "American Thyroid Association",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "alt",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 7,
+        "max_value": 56,
+        "unit": "U/L"
+      },
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 7,
+        "max_value": 45,
+        "unit": "U/L"
+      }
+    ],
+    "organ_system": "liver",
+    "critical_threshold_percent": 20,
+    "source": "American Liver Foundation",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "ast",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 10,
+        "max_value": 40,
+        "unit": "U/L"
+      },
+      {
+        "age_min": 0,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 10,
+        "max_value": 35,
+        "unit": "U/L"
+      }
+    ],
+    "organ_system": "liver",
+    "critical_threshold_percent": 20,
+    "source": "American Liver Foundation",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "parameter": "creatinine",
+    "ranges": [
+      {
+        "age_min": 0,
+        "age_max": 10,
+        "gender": "male",
+        "min_value": 0.3,
+        "max_value": 0.7,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 0,
+        "age_max": 10,
+        "gender": "female",
+        "min_value": 0.3,
+        "max_value": 0.7,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 11,
+        "age_max": 120,
+        "gender": "male",
+        "min_value": 0.7,
+        "max_value": 1.3,
+        "unit": "mg/dL"
+      },
+      {
+        "age_min": 11,
+        "age_max": 120,
+        "gender": "female",
+        "min_value": 0.6,
+        "max_value": 1.1,
+        "unit": "mg/dL"
+      }
+    ],
+    "organ_system": "kidney",
+    "critical_threshold_percent": 20,
+    "source": "National Kidney Foundation",
+    "last_updated": "2024-01-01T00:00:00Z"
+  }
+]

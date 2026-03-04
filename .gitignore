@@ -1,0 +1,137 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv/
+venv/
+ENV/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.hypothesis/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local files
+uploads/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!docs/screenshots/*.png
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kiro IDE files
+.kiro/
+
+# Development/Debug files - NOT needed for GitHub
+test_*.py
+*_test.py
+debug_*.py
+create_*.py
+verify_*.py
+guide_for_*.md
+
+# Task completion documentation - NOT needed for GitHub
+*_COMPLETE.md
+*_SUMMARY.md
+TASK_*.md
+PROGRESS_*.md
+WHAT_TO_EXPECT.md
+SYSTEM_READY.md
+START_SYSTEM.md
+QUICK_START.md
+INSTALL_OLLAMA.md
+LLM_SERVICE_STATUS.md
+FINAL_IMPLEMENTATION_SUMMARY.md
+END_TO_END_TESTING_GUIDE.md
+FRONTEND_BACKEND_INTEGRATION_COMPLETE.md
+FRONTEND_INTEGRATION_GUIDE.md
+ALL_PROPERTY_TESTS_COMPLETE.md
+PROPERTY_TESTS_BATCH_*.md
+DEPLOYMENT_COMPLETE.md
+GITHUB_SETUP_GUIDE.md
+
+# Keep only essential documentation:
+# - README.md (main documentation)
+# - SETUP.md (setup instructions)
+# - TESTING_GUIDE.md (testing documentation)
+# - HOW_TO_START.md (getting started)
+# - LICENSE (license file)
+# - docker-compose.yml (deployment)
+# - start.sh / start.bat (startup scripts)

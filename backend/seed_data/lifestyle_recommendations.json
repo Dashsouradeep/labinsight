@@ -1,0 +1,223 @@
+[
+  {
+    "parameter": "hemoglobin",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Eat iron-rich foods like lean red meat, beans, and leafy greens",
+      "Include vitamin C-rich foods to help iron absorption",
+      "Stay hydrated with 8 glasses of water daily",
+      "Get adequate sleep (7-9 hours per night)",
+      "Discuss with your doctor about potential causes"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "hemoglobin",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Follow your doctor's dietary recommendations",
+      "Avoid strenuous physical activity until cleared by your doctor",
+      "Keep track of any symptoms like fatigue or dizziness"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "wbc",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Get adequate rest and sleep",
+      "Maintain good hygiene to prevent infections",
+      "Eat a balanced diet rich in fruits and vegetables",
+      "Manage stress through relaxation techniques",
+      "Discuss with your doctor about potential causes"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "wbc",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Avoid contact with sick people if count is low",
+      "Practice excellent hand hygiene",
+      "Follow your doctor's specific instructions"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "platelets",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Avoid activities with high risk of injury",
+      "Be gentle when brushing teeth",
+      "Stay hydrated",
+      "Discuss with your doctor about potential causes"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "platelets",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Avoid activities that could cause bleeding or bruising",
+      "Report any unusual bleeding or bruising to your doctor",
+      "Follow your doctor's specific instructions carefully"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "cholesterol",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Reduce saturated fat intake (limit red meat, butter, cheese)",
+      "Increase fiber-rich foods (oats, beans, fruits, vegetables)",
+      "Exercise for at least 30 minutes most days of the week",
+      "Maintain a healthy weight",
+      "Limit alcohol consumption",
+      "Quit smoking if you smoke",
+      "Discuss with your doctor about lifestyle changes"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "cholesterol",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Follow a heart-healthy diet as recommended by your doctor",
+      "Increase physical activity as approved by your doctor",
+      "Your doctor may recommend additional interventions"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "glucose",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Limit sugary foods and beverages",
+      "Choose whole grains over refined carbohydrates",
+      "Eat regular, balanced meals throughout the day",
+      "Exercise for at least 30 minutes most days",
+      "Maintain a healthy weight",
+      "Manage stress through relaxation techniques",
+      "Get adequate sleep (7-9 hours per night)",
+      "Discuss with your doctor about blood sugar management"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "glucose",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Monitor your blood sugar as directed by your doctor",
+      "Follow your doctor's dietary recommendations strictly",
+      "Keep track of symptoms like excessive thirst or urination",
+      "Your doctor may recommend additional interventions"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "tsh",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Ensure adequate iodine intake through iodized salt",
+      "Eat selenium-rich foods (Brazil nuts, fish, eggs)",
+      "Manage stress levels",
+      "Get adequate sleep",
+      "Discuss with your doctor about thyroid function"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "tsh",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Follow your doctor's recommendations for thyroid management",
+      "Keep track of symptoms like fatigue, weight changes, or mood changes",
+      "Your doctor may recommend additional testing or interventions"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "alt",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Limit alcohol consumption or avoid it completely",
+      "Maintain a healthy weight",
+      "Eat a balanced diet rich in fruits and vegetables",
+      "Exercise regularly (30 minutes most days)",
+      "Avoid unnecessary medications and supplements",
+      "Stay hydrated",
+      "Discuss with your doctor about liver health"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "alt",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Avoid alcohol completely",
+      "Follow your doctor's dietary recommendations",
+      "Your doctor may recommend additional liver function tests",
+      "Report any symptoms like jaundice or abdominal pain immediately"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "ast",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Limit alcohol consumption or avoid it completely",
+      "Maintain a healthy weight",
+      "Eat a balanced diet rich in fruits and vegetables",
+      "Exercise regularly (30 minutes most days)",
+      "Avoid unnecessary medications and supplements",
+      "Stay hydrated",
+      "Discuss with your doctor about liver health"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "ast",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Avoid alcohol completely",
+      "Follow your doctor's dietary recommendations",
+      "Your doctor may recommend additional liver function tests",
+      "Report any symptoms like jaundice or abdominal pain immediately"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  },
+  {
+    "parameter": "creatinine",
+    "risk_level": "mild_abnormal",
+    "recommendations": [
+      "Stay well hydrated (drink adequate water daily)",
+      "Limit protein intake as recommended by your doctor",
+      "Reduce salt intake",
+      "Maintain healthy blood pressure",
+      "Exercise regularly with moderate intensity",
+      "Avoid NSAIDs (like ibuprofen) unless prescribed",
+      "Discuss with your doctor about kidney function"
+    ],
+    "disclaimer": "These are general suggestions, not medical advice. Consult your doctor for personalized recommendations."
+  },
+  {
+    "parameter": "creatinine",
+    "risk_level": "critical",
+    "recommendations": [
+      "Consult your doctor immediately for evaluation",
+      "Follow your doctor's dietary and fluid recommendations strictly",
+      "Monitor your blood pressure regularly",
+      "Your doctor may recommend additional kidney function tests",
+      "Report any symptoms like swelling or changes in urination"
+    ],
+    "disclaimer": "This is a critical finding. Seek medical attention immediately. These are not medical recommendations."
+  }
+]
