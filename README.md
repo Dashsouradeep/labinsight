@@ -292,7 +292,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Souradeep Dash**
 - GitHub: https://github.com/Dashsouradeep
 - LinkedIn: https://www.linkedin.com/in/souradeep-dash-98879525b/
 - Email: dashsouradeep@gmail.com
