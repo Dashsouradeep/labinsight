@@ -147,13 +147,14 @@ async def process_report_enhanced(
         logger.info("Stage 3: Running Knowledge Service...")
         stage_start = datetime.utcnow()
         
-        knowledge_service = get_knowledge_service()
+        knowledge_service = get_knowledge_service(database)
         classified_params = []
         
         for param in parameters:
-            classification = knowledge_service.classify_parameter(
+            classification = await knowledge_service.classify_parameter(
                 param.name,
                 param.value,
+                param.unit,
                 user_age,
                 user_gender
             )

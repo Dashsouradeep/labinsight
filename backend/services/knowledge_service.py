@@ -159,3 +159,25 @@ class KnowledgeService:
             organ_system=organ_system,
             lifestyle_recommendations=recommendations
         )
+
+
+# Singleton instance
+_knowledge_service: Optional[KnowledgeService] = None
+
+
+def get_knowledge_service(db: AsyncIOMotorDatabase) -> KnowledgeService:
+    """
+    Get or create the Knowledge Service instance.
+    
+    Args:
+        db: MongoDB database instance
+    
+    Returns:
+        KnowledgeService instance
+    """
+    global _knowledge_service
+    
+    if _knowledge_service is None:
+        _knowledge_service = KnowledgeService(db)
+    
+    return _knowledge_service
